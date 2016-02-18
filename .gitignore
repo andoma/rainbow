@@ -1,16 +1,20 @@
 # Generated files
+**/Rainbow.sln
 *.aps
+*.pyc
 *.swp
 .DS_Store
 .browse.VC.*
 .vs/
 CMakeSettings.json
 Rainbow.sublime-workspace
+bin/
+obj/
 project.xcworkspace/
-src/.ycm_extra_conf.pyc
 xcuserdata/
 
 # Libraries
+*.dll
 lib/**/*.cmake
 lib/**/*.txt
 lib/**/.git*
